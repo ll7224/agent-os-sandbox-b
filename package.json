@@ -1,0 +1,13 @@
+{
+  "name": "agent-os-sandbox-b",
+  "version": "1.0.0",
+  "private": true,
+  "description": "sandbox-b: client for sandbox-a GET /health",
+  "main": "src/healthClient.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
